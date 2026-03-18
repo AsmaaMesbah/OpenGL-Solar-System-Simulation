@@ -23,7 +23,7 @@ git clone https://github.com/AsmaaMesbah/OpenGL-Solar-System-Simulation.git
 ```
 2. Navigate to OpenGL-Solar-System-Simulation/build directory 
 ```
-cd "OpenGL-Solar-System-Simulation/build"
+cd ./OpenGL-Solar-System-Simulation/build
 ```
 3. Run the executable file: Double-click the solar.exe file
 ```
